@@ -1,0 +1,26 @@
+{
+  "name": "douyu-anal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "t": "babel src --out-dir dest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcy0702/douyu-anal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcy0702/douyu-anal/issues"
+  },
+  "homepage": "https://github.com/dcy0702/douyu-anal#readme",
+  "devDependencies": {
+    "babel-preset-stage-0": "^6.16.0"
+  },
+  "dependencies": {
+    "node-fetch": "^1.6.3"
+  }
+}
